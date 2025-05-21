@@ -1,17 +1,17 @@
 # Investment and finance Analysis
 This project focuses on analyzing a financial dataset to uncover investment patterns, group individuals by investment behavior, and apply a machine learning classification model to predict investor categories based on demographic and financial traits.
 
-## Table of Contents
+## **Table of contents**
 
-Overview
-Features
-Installation
-Usage
-Dataset
-Results
-Technologies Used
-Contributing
-License
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Results](#results)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Overview
 
